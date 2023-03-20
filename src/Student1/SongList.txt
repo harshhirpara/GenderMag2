@@ -1,0 +1,25 @@
+1 "Jailhouse Rock" 1117313 1957 146
+2 "Hotel California" 3731272 1976 391
+3 "Billie Jean" 8237978 1982 293
+4 "Let it be" 9019808 1970 243
+5 "Africa" 6638543 1982 295
+6 "More Than a Feeling" 9227316 1976 285
+7 "Stayin' Alive" 3696548 1977 285
+8 "Smells Like Teen Spirit" 6585081 1991 301
+9 "Every Breath You Take" 5467155 1983 253
+10 "Stand By Me" 4737081 1962 180
+11 "Nothing Compares 2 U" 4620829 1990 280
+12 "Don't Stop Believin'" 5859390 1981 250
+13 "Before Your Birth" 3044801 2021 217
+14 "Beat It" 9029252 1982 258 
+15 "Deja Vu" 3063145 1970 201
+16 "Take on Me" 2856977 1985 225
+17 "Under the Bridge" 5088225 1991 264
+18 "Fast Car" 8969321 1988 296
+19 "Purple Rain" 6501368 1984 520
+20 "Hound Dog" 3515824 1956 136
+21 "Girls Just Want To Have Fun" 4350296 1983 238
+22 "Sweet Caroline" 3227114 1969 203
+23 "Losing My Religion" 2271673 1991 268
+24 "Respect" 7597237 1967 147
+25 "September" 4738139 1978 215
