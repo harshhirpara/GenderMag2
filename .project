@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>GenderMag2</name>
-			<type>2</type>
-			<location>C:/Users/hhirp/OneDrive - kean.edu/Desktop/GenderMag2</location>
-		</link>
-	</linkedResources>
 </projectDescription>
